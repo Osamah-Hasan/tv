@@ -1,0 +1,24 @@
+/* Created by: Osamah Hasan
+* Created on: May 2023
+* This file contains the CSS for index.html
+*/
+
+/* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
+*/
+.mdl-ripple {
+    background: #ffffff;
+    opacity: 0.2;
+  }
+  
+  .mdl-layout__header-row {
+    justify-content: center;
+    padding: 0;
+    color: #000000;
+  }
+  
+  .mdl-layout__content {
+    padding-left: 15pt;
+    padding-right: 15pt;
+    padding-top: 15pt;
+    align-content: center;
+  }
